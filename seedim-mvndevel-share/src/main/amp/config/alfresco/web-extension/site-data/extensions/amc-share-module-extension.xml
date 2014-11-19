@@ -1,0 +1,15 @@
+<extension>
+  <modules>
+    <module>
+      <id>Customise DocumentLinks Widget</id>
+      <version>1.0</version>
+      <auto-deploy>true</auto-deploy>     
+      <customizations>
+        <customization>
+          <targetPackageRoot>org.alfresco.components.document-details</targetPackageRoot>
+          <sourcePackageRoot>au.com.seedim.components.document-details</sourcePackageRoot>
+        </customization>
+      </customizations>
+    </module>
+  </modules>
+</extension>
